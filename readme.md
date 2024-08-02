@@ -29,11 +29,6 @@ CovidAware is an Android application designed to help users stay informed about 
    ```bash
    git clone https://github.com/TheNumbered/covid-aware.git
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/TheNumbered/covid-aware.git
 
 ## Acknowledgments
 This project was developed as part of the Mobile Computing course at Wits University by the following team:
