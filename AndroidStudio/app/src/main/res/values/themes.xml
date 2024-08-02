@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        &lt;!&ndash;<item name="colorPrimary">@color/status_bar</item> &ndash;&gt;-->
+<!--        <item name="colorSurface">@color/status_bar</item>-->
+<!--        <item name="colorSurfaceVariant">@color/status_bar</item>-->
+        <item name="colorOnPrimary">@color/shrine_pink_100</item>
+        <item name="colorPrimary">@color/shrine_pink_900</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="materialCalendarTheme">@style/ThemeOverlay.App.DatePicker</item>
+    </style>
+
+    <style name="Theme.Project" parent="Base.Theme.Project" />
+
+
+    <style name="ThemeOverlay.App.DatePicker" parent="@style/ThemeOverlay.Material3.MaterialCalendar">
+        <item name="colorPrimary">@color/shrine_pink_100</item>
+        <item name="colorOnPrimary">@color/shrine_pink_900</item>
+        <!-- Customize text field of the text input mode. -->
+    </style>
+
+
+    <style name="Widget.App.BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottomNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="">
+        <item name="colorSurface">@color/status_bar</item>
+        <item name="colorOnSurfaceVariant">@color/status_bar</item>
+    </style>
+
+</resources>
