@@ -11,30 +11,23 @@ CovidAware is an Android application designed to help users stay informed about 
 
 ## Screenshots
 
-1. **Sign-In**
+1. **Sign-In** and **Sign-Up**
 
-   ![Report Status Screen](images/sign-in.jpg)
+   <img src="images/sign-in.jpg" alt="Sign-In" width="300"/> <img src="images/sign-up.jpg" alt="Sign-Up" width="300"/>
 
-2. **Sign-Up**
+2. **Home Screen** and **Map View**
 
-   ![Report Status Screen](images/sign-up.jpg)
+   <img src="images/home.jpg" alt="Home Screen" width="300"/> <img src="images/map.jpg" alt="Map View" width="300"/>
 
-3. **Home Screen**
-   
-   ![Home Screen](images/home.jpg)
-   
-4. **Map View**
+3. **Settings Screen** and **Check-in Screen**
 
-   ![Map View](images/map.jpg)
+   <img src="images/setting.jpg" alt="Settings Screen" width="300"/> <img src="images/checkin.jpg" alt="Check-in Screen" width="300"/>
 
-5. **Settings Screen**
+## Installation
 
-   ![Settings Screen](images/setting.jpg)
-
-6. **Check-in Screen**
-
-   ![Check-in Screen](images/checkin.jpg)
-   
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TheNumbered/covid-aware.git
 
 ## Installation
 
