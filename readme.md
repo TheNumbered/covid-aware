@@ -33,7 +33,7 @@ CovidAware is an Android application designed to help users stay informed about 
 ## Acknowledgments
 This project was developed as part of the Mobile Computing course at Wits University by the following team:
 
-Daniel Ngobe
-Karabo Joshua
-Kharendwe Negota
+Daniel Ngobe,
+Karabo Joshua,
+Kharendwe Negota,
 Olwethu
